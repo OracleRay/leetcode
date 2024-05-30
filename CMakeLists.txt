@@ -92,4 +92,5 @@ add_executable(leetcode
         setZeroes.cpp
         rotate2.cpp
         productExceptSelf.cpp
+        gameOfLife.cpp
 )

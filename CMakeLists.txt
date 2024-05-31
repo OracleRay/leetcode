@@ -93,4 +93,6 @@ add_executable(leetcode
         rotate2.cpp
         productExceptSelf.cpp
         gameOfLife.cpp
+        convert.cpp
+        countAndSay.cpp
 )

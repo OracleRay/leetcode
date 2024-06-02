@@ -95,4 +95,6 @@ add_executable(leetcode
         gameOfLife.cpp
         convert.cpp
         countAndSay.cpp
+        groupAnagrams.cpp
+        reverseWords.cpp
 )

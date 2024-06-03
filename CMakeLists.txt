@@ -97,4 +97,7 @@ add_executable(leetcode
         countAndSay.cpp
         groupAnagrams.cpp
         reverseWords.cpp
+        compareVersion.cpp
+        getHint.cpp
+        rob.cpp
 )

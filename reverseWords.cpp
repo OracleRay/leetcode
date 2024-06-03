@@ -35,6 +35,7 @@ string reverseWords(string s) {
     return res.substr(0, res.size() - 1);  //去掉最后一个空格
 }
 
+/*
 int main() {
     cout << reverseWords("a good   example");
-}
+}*/
